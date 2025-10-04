@@ -1,6 +1,4 @@
-Perfecto 🚀. Te armo un **README.md** base adaptado para tu notebook `FNN_en_Series_de_Tiempo.ipynb`. Lo estructuré para que documente claramente tu flujo: desde la API de Banxico hasta la FFNN, entrenamiento, resultados y conclusiones. Solo tendrías que ir llenando los huecos con tus métricas, gráficas y detalles específicos.
 
----
 
 # 📌 Predicción del Tipo de Cambio (MXN/USD) con FFNN
 
