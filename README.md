@@ -1,6 +1,4 @@
-x
 
-#  Predicción del Tipo de Cambio (MXN/USD) con FFNN
 
 ##  Descripción del proyecto
 
